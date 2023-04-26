@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for entry level oportunity<br>🌱 I’m currently learning Python and Data Science Fundamentals<br>💬 Ask me about Streamlit, an awesome tool to build your data scripts<br>⚡ Fun fact about me, I'm a former volleyball player
+🔭 I’m currently looking for entry level oportunity<br>🌱 I’m currently learning Python, Flutter and Data Science Fundamentals<br>💬 Ask me about Streamlit, an awesome tool to build your data scripts<br>⚡ Fun fact about me, I'm a former volleyball player
 
 
 ## 🌐 Socials:
